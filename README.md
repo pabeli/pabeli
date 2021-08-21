@@ -31,6 +31,8 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
 
 
 
+
+
 ### My interests 🔍
 👁 Computer Vision
 🧠 Machine Learning
