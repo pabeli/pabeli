@@ -4,12 +4,12 @@
 
 ✨ *Python dev* at [Rosario Software](https://www.rosariosoftware.com/)
 
----
+
 <h3><img src="https://media1.giphy.com/media/ZbH8qLL8vHXBjrBuO7/giphy.gif?cid=790b76114cb86b2ae3c05078e25cc241be023b4e38f6ef77&rid=giphy.gif&ct=ts" width="120"></h3>
 
 Self-taught. Each problem is a challenge that must be solved, and the solution, a path to be built. I'm comfortable working in a team, specially, when knowledge is shared. 
 
----
+
 <h3><b>Tech stack!</b><img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=790b761160dee29c4f4983d787b2c782a044de65150a678d&rid=giphy.gif&ct=s" width="50"></h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -28,7 +28,8 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
----
+
+
 <br/>
 
   <h2> Statistics 📈 </h2>
@@ -44,7 +45,7 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
 
 <br/>
 
----
+
 
 ### Contact with me 📝
 
