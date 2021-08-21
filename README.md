@@ -29,10 +29,16 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+### My interests 🔍
+👁 Computer Vision
+🧠 Machine Learning
+📝 Data Science
+💻 Data Engineering
+
 
 <br/>
 
-  <h2> Statistics 📈 </h2>
+  <h3> Statistics 📈 </h3>
   
 <div > 
     <a href="">
@@ -57,4 +63,3 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
 
 [facebook]: https://www.facebook.com/paula.lima.95/
 [linkedin]: https://www.linkedin.com/in/paula-belen-lima-690b91140/
-
