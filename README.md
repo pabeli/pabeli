@@ -8,7 +8,7 @@
 
 Self-taught. Each problem is a challenge that must be solved, and the solution, a path to be built. I'm comfortable working in a team, specially, when knowledge is shared. 
 
-<h3><b>Tech stack!</b><img src="https://media0.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.gif?cid=790b7611a4987ee2d665eb92b2cc19cc2ffe741d8981512a&rid=giphy.gif&ct=s" width="50"></h3>
+<h3><b>Tech stack!</b><img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=790b761160dee29c4f4983d787b2c782a044de65150a678d&rid=giphy.gif&ct=s" width="50"></h3>
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -27,3 +27,6 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
+<h3><b>Interested in... </b><img src="https://media3.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif?cid=790b76118abecc3a01ef9313be180727b9eb17e99ba1a36a&rid=giphy.gif&ct=g" width="50"></h3>
+
