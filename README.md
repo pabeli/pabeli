@@ -28,6 +28,8 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+[![pabeli's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabeli)](https://github.com/pabeli/github-readme-stats)
+
 ### Contact with me 📝
 
 [<img align="left" alt="paula.lima.95 | Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]
