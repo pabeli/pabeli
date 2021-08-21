@@ -3,10 +3,12 @@
 ✨ *Information Systems Engineer* graduated from [Universidad Tecnológica Nacional](https://utn.edu.ar/es/)
 
 ✨ *Python dev* at [Rosario Software](https://www.rosariosoftware.com/)
+
 ---
 <h3><img src="https://media1.giphy.com/media/ZbH8qLL8vHXBjrBuO7/giphy.gif?cid=790b76114cb86b2ae3c05078e25cc241be023b4e38f6ef77&rid=giphy.gif&ct=ts" width="120"></h3>
 
 Self-taught. Each problem is a challenge that must be solved, and the solution, a path to be built. I'm comfortable working in a team, specially, when knowledge is shared. 
+
 ---
 <h3><b>Tech stack!</b><img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=790b761160dee29c4f4983d787b2c782a044de65150a678d&rid=giphy.gif&ct=s" width="50"></h3>
 
@@ -41,7 +43,9 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
     </div>
 
 <br/>
+
 ---
+
 ### Contact with me 📝
 
 [<img align="left" alt="paula.lima.95 | Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]
