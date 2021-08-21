@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2>Hi, I'm Paula <img src="https://media0.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b7611dd8948da85299984eb300e6c15d9ad64822331fb&rid=giphy.gif&ct=s" width="50"></h2>
 
-<!--
-**pabeli/pabeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ *Information Systems Engineer* graduated from [Universidad Tecnológica Nacional](https://utn.edu.ar/es/)
 
-Here are some ideas to get you started:
+✨ *Python dev* at [Rosario Software](https://www.rosariosoftware.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><img src="https://media1.giphy.com/media/ZbH8qLL8vHXBjrBuO7/giphy.gif?cid=790b76114cb86b2ae3c05078e25cc241be023b4e38f6ef77&rid=giphy.gif&ct=ts" width="120"></h3>
+
+Self-taught. Each problem is a challenge that must be solved, and the solution, a path to be built. I'm comfortable working in a team, specially, when knowledge is shared. 
+
+<h3><b>Tech stack!</b><img src="https://media0.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.gif?cid=790b7611a4987ee2d665eb92b2cc19cc2ffe741d8981512a&rid=giphy.gif&ct=s" width="50"></h3>
+
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)\
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
