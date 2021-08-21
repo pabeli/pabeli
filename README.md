@@ -28,5 +28,13 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<h3><b>Interested in... </b><img src="https://media3.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif?cid=790b76118abecc3a01ef9313be180727b9eb17e99ba1a36a&rid=giphy.gif&ct=g" width="50"></h3>
+### Contact with me 📝
 
+[<img align="left" alt="paula.lima.95 | Facebook" height="30px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]
+[<img align="left" alt="paula-belen-lima-690b91140 | LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/185/185964.png"/>][linkedin]
+<br />
+
+---
+
+[facebook]: https://www.facebook.com/paula.lima.95/
+[linkedin]: https://www.linkedin.com/in/paula-belen-lima-690b91140/
