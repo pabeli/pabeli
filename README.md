@@ -31,19 +31,13 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
 
 
 
-
-
 ### My interests 🔍
 👁 Computer Vision
 🧠 Machine Learning
 📝 Data Science
 💻 Data Engineering
-
-
 <br/>
-
   <h3> Statistics 📈 </h3>
-  
 <div > 
     <a href="">
         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pabeli&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&line_height=40" />
@@ -54,7 +48,6 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
     </div>
 
 <br/>
-
 
 
 ### Contact with me 📝
