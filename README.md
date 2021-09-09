@@ -46,7 +46,6 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabeli&theme=buefy&line_height=40&hide=css"/>
     </a>
     </div>
-
 <br/>
 
 
