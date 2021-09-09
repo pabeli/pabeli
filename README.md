@@ -43,7 +43,7 @@ Self-taught. Each problem is a challenge that must be solved, and the solution, 
         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pabeli&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&line_height=40" />
     </a>
     <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabeli&theme=vue&line_height=40&hide=css"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabeli&theme=buefy&line_height=40&hide=css"/>
     </a>
     </div>
 <br/>
