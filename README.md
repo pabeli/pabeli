@@ -2,7 +2,7 @@
 
 ✨ *Information Systems Engineer* graduated from [Universidad Tecnológica Nacional](https://utn.edu.ar/es/)
 
-✨ *Python dev* at [Rosario Software](https://www.rosariosoftware.com/)
+✨ *Data Developer* at [MUTT DATA](https://www.muttdata.ai/)
 
 
 <h3><img src="https://media1.giphy.com/media/ZbH8qLL8vHXBjrBuO7/giphy.gif?cid=790b76114cb86b2ae3c05078e25cc241be023b4e38f6ef77&rid=giphy.gif&ct=ts" width="120"></h3>
